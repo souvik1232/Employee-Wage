@@ -6,9 +6,12 @@ EMP_RATE_PER_HR=20
 NUM_WORKING_DAYS=20
 totalEmpHrs=0
 totalWorkingDays=0
-totalWorkHours=0
+totalWorkHours=0<<<<<<< uc7
+
+ 
 #Declaring dictionary
 declare -A dayWiseWages
+
 function calculateDailyWage()
 {
 	empHrs=$1
