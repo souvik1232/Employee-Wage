@@ -8,7 +8,7 @@ totalEmpHrs=0
 totalWorkingDays=0
 totalWorkHours=0
 
-
+ 
 function calculateDailyWage()
 {
 	empHrs=$1
